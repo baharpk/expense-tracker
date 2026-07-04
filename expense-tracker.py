@@ -61,8 +61,6 @@ menu = """
 
 message = "Expense Tracker"
 
-
-
 while True:
   # Display the main menu and get the user's choice 
   user_input = input(message + menu).strip()
