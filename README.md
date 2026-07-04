@@ -18,21 +18,6 @@ A simple command-line expense tracking application built with Python and Pandas.
 - CSV
 - Datetime
 
-## How to Run
-
-1. Clone the repository
-
-bash
-git clone https://github.com/YOUR_USERNAME/expense-tracker-python.git
-2. Install Pandas
-
-bash
-pip install pandas
-3. Run the program
-
-bash
-python working.py
-
 ## Sample Menu
 
 1. Add Expense
